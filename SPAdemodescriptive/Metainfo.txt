@@ -1,0 +1,21 @@
+Name of QuantLet : SPAdemodescriptive
+
+Published in : SPA - Stochastic Population Analysis
+
+Description : 'Plots time series graphs of mortality and fertility of 
+Japan and Taiwan based on historical data sets.'
+
+Keywords : 'demography, descriptive-statistics, fertility, mortality, 
+plot, population, time-series'
+
+See also : SPAdemoHUJapan, SPAdemoLC, SPAdemofcastaccuracy
+
+Author : Lei Fang
+
+Submitted : Thu, March 26 2015 by Awdesch Melzer
+
+Datafile : 'Exposures_1x1.txt, Exposures_1x1tw.txt, JPNasfrRR.txt, 
+JPNexposRR.txt, Mx_1x1.txt, Mx_1x1tw.txt, TWNasfrRR.txt, TWNexposRR.txt'
+
+Example : 
+- Mortality of Japan (male)

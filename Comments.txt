@@ -1,0 +1,41 @@
+ARRmosage
+i. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuft
+
+ARRmosagegr
+i. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuft
+
+TXTBreweries
+i. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuft
+
+TXTSimulation
+i. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuft
+
+TXTSimulationBS fehlt: Elisabeth: nicht mehr das Tei des Papers: kann weg
+
+
+SPAdemodescriptive
+i. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuft
+
+SPAdemofcastaccuracy
+i. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuft
+
+SPAdemoHUJapan
+i. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuft
+
+Si. meta data ok
+ii. bild(er) identisch
+iii. code in 2.0 wurde verbessert, läuf
